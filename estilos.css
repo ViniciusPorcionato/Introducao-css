@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+}
+
+#quarto {
+
+    background-color: indianred;
+    color: white;
+    font-size: 60px;
+    border: 5px solid black;
+    border-radius: 20px;
+
+}
+
+.diferente{
+    
+    background-color: rgb(201, 181, 0);
+    color: rgb(107, 0, 0);
+    font-size: 50px;
+    font-weight: bolder;
+    border: 5px solid black;
+    border-radius: 20px;
+}
